@@ -1,8 +1,8 @@
 {
-	"name": "kylephillips/favorites",
+	"name": "markus-dilectite/md-favorites",
 	"description": "Favorites for WordPress",
 	"keywords": ["wordpress", "plugin", "favorite", "bookmark"],
-	"homepage": "https://favoriteposts.com",
+	"homepage": "https://github.com/Markus-Dilectite/md-favorites",
 	"license": "GPL",
 	"authors": [
 		{
@@ -13,17 +13,11 @@
 	],
 	"type": "wordpress-plugin",
 	"require": {
-		"php": ">=5.3.2",
-		"composer/installers": "v1.0.6"
+		"php": ">=5.3.2"
 	},
 	"autoload": {
 		"psr-4" : {
 			"Favorites\\" : "app/"
-		}
-	},
-	"config": {
-		"allow-plugins": {
-			"composer/installers": true
 		}
 	}
 }

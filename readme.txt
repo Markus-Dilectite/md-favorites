@@ -1,17 +1,21 @@
-=== Favorites ===
-Contributors: kylephillips
+=== MD Favorites ===
+Contributors: kylephillips, Marcus-Dilectite
 Donate link: http://favoriteposts.com/
 Tags: favorites, like, bookmark, favorite, likes, bookmarks, favourite, favourites, multisite, wishlist, wish list
 Requires at least: 3.8
 Requires PHP: 5.4
 Tested up to: 6.8
-Stable tag: 2.3.6
+Stable tag: 2.3.6-md.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Favorites for any post type. Easily add favoriting/liking, wishlists, or any other similar functionality using the developer-friendly API.
+MD-maintained build of Favorites for any post type. Easily add favoriting/liking, wishlists, or any other similar functionality using the developer-friendly API.
 
 == Description ==
+
+**MD Maintenance Note**
+
+This build is maintained by Marcus Dilectite from the upstream Favorites plugin by Kyle Phillips. It is based on the upstream master branch after the merged security patch commit `bfa87ad0c219f60c87d727a3f9585e697dec72c9`.
 
 **Why Favorites?**
 

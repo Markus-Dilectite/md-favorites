@@ -1,4 +1,8 @@
-# Favorites for Wordpress
+# MD Favorites
+
+MD-maintained build of the upstream Favorites plugin by Kyle Phillips, based on upstream security patch commit `bfa87ad0c219f60c87d727a3f9585e697dec72c9`.
+
+# Upstream Favorites for Wordpress
 
 ## Overview
 

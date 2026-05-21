@@ -1,11 +1,12 @@
 <?php
 /*
-Plugin Name: Favorites
-Plugin URI: http://favoriteposts.com
+Plugin Name: MD Favorites
+Plugin URI: https://github.com/Markus-Dilectite/md-favorites
 Description: Simple and flexible favorite buttons for any post type.
-Version: 2.3.6
-Author: Kyle Phillips
-Author URI: https://github.com/kylephillips
+Version: 2.3.6-md.1
+Author: Kyle Phillips, Marcus Dilectite
+Author URI: https://github.com/Markus-Dilectite
+Update URI: https://github.com/Markus-Dilectite/md-favorites
 Text Domain: favorites
 Domain Path: /languages/
 License: GPLv2 or later.
